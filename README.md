@@ -1,4 +1,3 @@
-# Tabitha Becker
 # Data Analyst Portfolio
 
 ## Projects
